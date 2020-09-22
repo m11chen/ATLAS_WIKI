@@ -5,9 +5,9 @@ Welcome to the ATLAS Project Wiki. Here you will find the full documentation of 
 ## Table of Contents
 
 1. [Environment Setup](./1-Environment-Setup.md)
-2. [Implementation Guideline](./2-implementation-guideline)
-3. [User Manual](./3-user-manual)
-4. [Config File](./4-config-file)
+2. [Implementation Guideline](./2-implementation-guideline.md)
+3. [User Manual](./3-user-manual.md)
+4. [Config File](./4-config-file.md)
 
 ---
 
