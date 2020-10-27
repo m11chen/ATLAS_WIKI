@@ -162,7 +162,7 @@ If Ixia Explorer is not already installed on your Windows host, Obtain and run t
 
 ## Installing Bitvise SSH Server
 
-The Ixia TG host communicates with the workstation through SSH. If using a WSL environment as the workstation, bothe the workstation and TG host requires installation of the Bitvise SSH server. If using a pure Linux workstation, then only install Bitvise on the TG host. Follow these steps to install Bitvise SSH server and add a Windows virtual user account:
+The Ixia TG host communicates with the workstation through SSH. If using a WSL environment as the workstation, both the workstation and TG host requires installation of the Bitvise SSH server. If using a pure Linux workstation, then only install Bitvise on the TG host. Follow these steps to install Bitvise SSH server and add a Windows virtual user account:
 
 1. Install Bitvise SSH Server.
     * Run the Bitvise SSH server setup file in the ./dependencies/win32/ directory.
