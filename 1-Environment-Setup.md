@@ -122,9 +122,21 @@ The core ATLAS framework is implemented using Python 3, and launching the Jenkin
     ```
     sudo pip3 install openpyxl==3.0.3
     ```
-10. Install pyshark package.
+10. Install pyshark version 0.4.2.11.
     ```
-    sudo pip3 install pyshark
+    sudo pip3 install pyshark==0.4.2.11
+    ```
+11. Install progressbar version 2.5.
+    ```
+    sudo pip3 install progressbar==2.5
+    ```
+12. Install requests version 2.22.0.
+    ```
+    sudo pip3 install requests==2.22.0
+    ```
+13. Install adaptavist version 1.1.2.
+    ```
+    sudo pip3 install adaptavist==1.1.2
     ```
 
 ## Additional Ubuntu Dependencies
