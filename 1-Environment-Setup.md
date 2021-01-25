@@ -58,19 +58,19 @@ The core developers and test engineers for ATLAS use Ubuntu 20.04 running on Win
     1. Open "Windows Powershell".
     2. Check Ubuntu WSL version:
         ```
-        PS  wsl -l -v
+        wsl -l -v
         ```
     3. Set Ubuntu 20.04 to use WSL2:
         ```
-        PS  wsl --set-version Ubuntu-20.04 2
+        wsl --set-version Ubuntu-20.04 2
         ```
     4. Set WSL2 to be the default WSL version:
         ```
-        PS  wsl --set-default-version 2
+        wsl --set-default-version 2
         ```
     5. Launch Ubuntu 20.04:
         ```
-        PS  ubuntu2004.exe
+        ubuntu2004.exe
         ```
     6. Exit Ubuntu and restart your computer.
     7. Proceed to the next section to setup your Ubuntu environment.
